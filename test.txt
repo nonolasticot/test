@@ -4,3 +4,5 @@ tata
 
 ajout de ligne
 blabla
+
+MAJUSCULES
